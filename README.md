@@ -2,7 +2,7 @@
 
 *These are unofficial (whatever official means in Ethereum...) documents/diagrams for others to understand the spec better*
 
-The ETH 2.0 spec can be found here: [github.com/ethereum/eth2.0-specs](https://github.com/ethereum/eth2.0-specs]
+The ETH 2.0 spec can be found here: [github.com/ethereum/eth2.0-specs](https://github.com/ethereum/eth2.0-specs)
 
 
 ## Overview
@@ -15,16 +15,16 @@ External text resources:
 
 Diagrams:
 
-- Basic timeline example: Blocks, Slots and Epochs
-- BeaconState transition for Phase-0
-- Justification and Finalization
-- Rewards and penalties table
-- SSZ hash-tree-root and merkleization
-- SSZ encoding
-- Shuffling
+- [Basic timeline example: Blocks, Slots and Epochs](#timeline-concept)
+- [BeaconState transition for Phase-0](#phase-0-beaconstate-transition)
+- [Justification and Finalization](#justification-and-finalization)
+- [Rewards and penalties table](#rewards-and-penalties-table)
+- [SSZ hash-tree-root and merkleization](#ssz-hash-tree-root-and-merkleization)
+- [SSZ encoding](#ssz-encoding)
+- [Shuffling](#shuffling)
 
 
-### timeline
+### Timeline concept
 
 ![Basic timeline example: Blocks, Slots and Epochs](eth2-timeline.svg)
 
