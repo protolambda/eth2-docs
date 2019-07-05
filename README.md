@@ -26,34 +26,34 @@ Diagrams:
 
 ### Timeline concept
 
-![Basic timeline example: Blocks, Slots and Epochs](eth2-timeline.svg)
+![Basic timeline example: Blocks, Slots and Epochs](eth2-timeline.png)
 
 
 ### Phase-0 BeaconState transition
 
-![Beacon State transition for Phase-0](eth2-transition.svg)
+![Beacon State transition for Phase-0](eth2-transition.png)
 
 
 ### Justification and Finalization
 
-![Justification and Finalization](eth2-finalization.svg)
+![Justification and Finalization](eth2-finalization.png)
 
 
 ### Rewards and penalties table
 
-![Rewards and penalties table](eth2-rewards-penalties.svg)
+![Rewards and penalties table](eth2-rewards-penalties.png)
 
 
 ### SSZ hash-tree-root and merkleization
 
-![SSZ hash-tree-root, merkleization](eth2-htr.svg)
+![SSZ hash-tree-root, merkleization](eth2-htr.png)
 
 
 ### SSZ encoding
 
-![SSZ encoding](eth2-ssz.svg)
+![SSZ encoding](eth2-ssz.png)
 
 
 ### Shuffling
 
-![Shuffling](eth2-shuffling.svg)
+![Shuffling](eth2-shuffling.png)
