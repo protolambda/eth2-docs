@@ -1,4 +1,4 @@
-# ETH 2.0 educational resources
+![ETH 2.0 educational resources](https://user-images.githubusercontent.com/3318070/60740539-9f96af80-9f55-11e9-81ca-513c0c5f8829.png)
 
 *These are unofficial (whatever official means in Ethereum...) documents/diagrams for others to understand the spec better*
 
