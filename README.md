@@ -22,6 +22,7 @@ Diagrams:
 - [SSZ hash-tree-root and merkleization](#ssz-hash-tree-root-and-merkleization)
 - [SSZ encoding](#ssz-encoding)
 - [Shuffling](#shuffling)
+- [Epoch processing](#epoch-processing)
 
 
 ### Timeline concept
@@ -99,7 +100,7 @@ This way, the function can be completely flattened out to a process that dumps a
 
 ![](epoch_process/justification_finalization.png)
 
-#### Rewards & Penalties
+#### Rewards and Penalties
 
 Similar to justification and finalization, rewards need to process attestations extensively. Go through the attestation, dump the status data that is necessary, and then use this to.
 
