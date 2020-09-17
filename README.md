@@ -12,6 +12,7 @@ External text resources:
 - [Eth 2.0 Design Rationale](https://notes.ethereum.org/s/rkhCgQteN) (main author: Vitalik Buterin)
 - Eth 2.0 Accompanying spec resource. *Added soon* (main author: Danny Ryan)
 - [The ol' trusty Eth 2.0 Handbook](https://notes.ethereum.org/s/BkSZAJNwX)
+- [Two point oh: Newbie friendly explainers](https://our.status.im/tag/two-point-oh)
 
 Diagrams:
 
